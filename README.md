@@ -12,3 +12,5 @@ dejando dichos resultados en dos vectores, uno de la suma de las filas y otro de
 insertar el valor x en el lugar k-ésimo de la mencionada lista.</h2>
 <h2>5- Se dispone de N temperaturas almacenadas en un array. Se desea calcular su media y
 obtener el número de temperaturas mayores o iguales que la media.</h2>
+<h2>6- Dada una lista L de N elementos, diseñar un algoritmo que calcule de forma independiente la
+suma de los números pares y la suma de los números impares.</h2>

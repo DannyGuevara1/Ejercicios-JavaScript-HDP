@@ -14,6 +14,7 @@ let k_esimo = (arr,x) =>{
         
     }
     console.log("El dato mayor "+Mayor)
+    console.log("Valor de x: "+x)
 
     for(let j =0; j < size; j++){
         if(arr[j] == Mayor){
@@ -23,7 +24,7 @@ let k_esimo = (arr,x) =>{
         }
        
     }   
-   console.log("Valor del axu "+aux);
+    
 
    console.log("ARRAY CON EL CAMBIO DE VALOR EN LA K-ESIMA");
    console.log(arr);
